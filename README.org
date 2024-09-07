@@ -20,4 +20,4 @@ This README was written using Org Mode! I used markdown before, but Org Mode is 
 
 * Links
 
-#+html:<a href="https://wakatime.com/@c323cd78-020a-44af-acec-a4f362e322a5"><img src="https://wakatime.com/badge/user/c323cd78-020a-44af-acec-a4f362e322a5.svg" alt="Total time coded since Sep 7 2024" /></a>
+[[https://wakatime.com/@c323cd78-020a-44af-acec-a4f362e322a5][https://wakatime.com/badge/user/c323cd78-020a-44af-acec-a4f362e322a5.svg]]
