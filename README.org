@@ -1,0 +1,19 @@
+* Introduction
+
+Hello, I'm Gabriel! I'm an aspiring software engineer studying to enter my state's public university.
+
+* Interests
+
+** [[https://www.gnu.org/software/emacs/][Emacs]]
+
+Emacs is not just a text editor, it's a full on application enviroment, with support for web browsing, e-mail, code editing...
+
+I hope to contribute more to the community in the future. For now, I have a configuration that takes inspiration from many users of the community.
+
+*** [[https://github.com/magit/magit][Magit]]
+
+It's a great git interface for Emacs. This file was pushed to Github using it! It's maintained by [[https://github.com/tarsius][Jonas]], a prominent member of the community.
+
+** [[https://orgmode.org/][Org Mode]]
+
+This README was written using Org Mode! I used markdown before, but Org Mode is perfect for Emacs.
