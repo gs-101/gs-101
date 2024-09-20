@@ -1,3 +1,10 @@
+#+begin_src emacs-lisp
+
+  (defun github-readme ()
+    "Personal README for Github.")
+
+#+end_src
+
 * Introduction
 
 Hello, I'm Gabriel! I'm an aspiring software engineer studying to enter my state's public university.
