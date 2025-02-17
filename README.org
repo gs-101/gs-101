@@ -33,6 +33,12 @@ Besides the quick disposal aspect with ~guix gc~, I can temporarily install soft
 
 But that's not even the best part! I can declaratively configure both my system and home environment with Scheme, so, combined with Emacs, I can always have a Lisp in hands.
 
+** [[https://nixos.org/][NixOS]]
+
+Guix's older sibling. I never used NixOS itself, and I don't plan to since I have Guix, but I use [[https://nix-community.github.io/home-manager/][home-manager]] with my Guix setup and its lovely. Whatever I can't find on Guix, I can find it in Nix and use it as a regular part of my system.
+
+And if I can't find it, I can write a package for either of them.
+
 * Links
 
 #+html:<a href="https://wakatime.com/@c323cd78-020a-44af-acec-a4f362e322a5"><img src="https://wakatime.com/badge/user/c323cd78-020a-44af-acec-a4f362e322a5.svg" alt="Total time coded since Sep 7 2024" /></a>
