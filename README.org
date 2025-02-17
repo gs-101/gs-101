@@ -13,7 +13,7 @@ Hello, I'm Gabriel! I'm an aspiring software engineer studying to enter my state
 
 ** [[https://www.gnu.org/software/emacs/][Emacs]]
 
-Emacs is not just a text editor, it's a full on application enviroment, with support for web browsing, e-mail, code editing...
+Emacs is not just a text editor, it's a full on application environment, with support for web browsing, e-mail, code editing...
 
 I hope to contribute more to the community in the future. For now, I have a configuration that takes inspiration from many users of the community.
 
