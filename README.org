@@ -25,6 +25,14 @@ It's a great git interface for Emacs. This file was pushed to Github using it! I
 
 This README was written using Org Mode! I used markdown before, but Org Mode is perfect for Emacs.
 
+** [[https://guix.gnu.org/][GNU Guix]]
+
+The GNU operating system! Using the store model, I don't even have to keep track of all the stuff I have installed, as I can remove anything not part of [[https://github.com/gs-101/.files][my configuration]] with a simple ~guix gc~.
+
+Besides the quick disposal aspect with ~guix gc~, I can temporarily install software with ~guix shell~ and then go back to my previous environment with ~exit~.
+
+But that's not even the best part! I can declaratively configure both my system and home environment with Scheme, so, combined with Emacs, I can always have a Lisp in hands.
+
 * Links
 
 #+html:<a href="https://wakatime.com/@c323cd78-020a-44af-acec-a4f362e322a5"><img src="https://wakatime.com/badge/user/c323cd78-020a-44af-acec-a4f362e322a5.svg" alt="Total time coded since Sep 7 2024" /></a>
