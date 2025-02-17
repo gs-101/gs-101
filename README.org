@@ -44,3 +44,5 @@ And if I can't find it, I can write a package for either of them.
 #+html:<a href="https://wakatime.com/@c323cd78-020a-44af-acec-a4f362e322a5"><img src="https://wakatime.com/badge/user/c323cd78-020a-44af-acec-a4f362e322a5.svg" alt="Total time coded since Sep 7 2024" /></a>
 
 #+html:<a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xd1d337f6cb3202dcb9ba337bf9d8eabcf57eed58"><img src="https://img.shields.io/badge/_-GPG_Key_on_Ubuntu-822422?style=flat-square&logo=GNU&logoColor=black&labelColor=white">
+
+#+html:<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D1D337F6CB3202DCB9BA337BF9D8EABCF57EED58"><img src="https://img.shields.io/badge/_-GPG_Key_on_OpenPGP-822422?style=flat-square&logo=GNU&logoColor=black&labelColor=white">
