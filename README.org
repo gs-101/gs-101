@@ -15,7 +15,7 @@ Hello, I'm Gabriel! I'm an aspiring software engineer currently enrolled in my s
 
 Emacs is not just a text editor, it's a full on application environment, with support for web browsing, e-mail, code editing...
 
-I hope to contribute more to the community in the future. For now, I have a configuration that takes inspiration from many users of the community.
+I contributed some bits and pieces there, but nothing really big yet.
 
 *** [[https://github.com/magit/magit][Magit]]
 
