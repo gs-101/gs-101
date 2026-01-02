@@ -51,17 +51,18 @@ And if I can't find it, I can write a package for either of them.
 
 *** Bitcoin
 
-[[./bitcoin.png]]
 #+CAPTION: Bitcoin wallet address QR code
 #+NAME: Bitcoin address
+#+ATTR_HTML: :width 50%
+[[./bitcoin.png]]
 
 =bc1qezd94fmupdl4k8mhlhajvjghscjh08ux4an75h=
 
 *** Monero
 
-[[test][./monero.png]]
 #+CAPTION: Monero wallet address QR code
 #+NAME: Monero address
+[[test][./monero.png]]
 
 =82yNtf6BpmH8ZEKLHREpwCdoc2eJPNpUhhcFe3pJ1vTbNgrffZh35UdVFHvZycUFfTAfy8iyeB1cKWvtNTR7DJdK8rXprj1=
 
