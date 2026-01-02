@@ -49,9 +49,9 @@ And if I can't find it, I can write a package for either of them.
 
 ** Financial
 
-#+html: <a href="82yNtf6BpmH8ZEKLHREpwCdoc2eJPNpUhhcFe3pJ1vTbNgrffZh35UdVFHvZycUFfTAfy8iyeB1cKWvtNTR7DJdK8rXprj1"><img src="https://img.shields.io/badge/Monero-FF6600?style=flat-square&logo=monero&logoColor=white"></a>
+#+html: <a href="monero:82yNtf6BpmH8ZEKLHREpwCdoc2eJPNpUhhcFe3pJ1vTbNgrffZh35UdVFHvZycUFfTAfy8iyeB1cKWvtNTR7DJdK8rXprj1"><img src="https://img.shields.io/badge/Monero-FF6600?style=flat-square&logo=monero&logoColor=white"></a>
 
-#+html: <a href="bc1qr900qsc40c822f0pshu4w7ekny7hecm7xkmung"><img src="https://img.shields.io/badge/Bitcoin-F79413?style=flat-square&logo=bitcoin&logoColor=white"></a>
+#+html: <a href="bitcoin:bc1qr900qsc40c822f0pshu4w7ekny7hecm7xkmung"><img src="https://img.shields.io/badge/Bitcoin-F79413?style=flat-square&logo=bitcoin&logoColor=white"></a>
 
 ** Stats
 
