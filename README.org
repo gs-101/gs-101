@@ -49,9 +49,21 @@ And if I can't find it, I can write a package for either of them.
 
 ** Financial
 
-#+html: <a href="monero:82yNtf6BpmH8ZEKLHREpwCdoc2eJPNpUhhcFe3pJ1vTbNgrffZh35UdVFHvZycUFfTAfy8iyeB1cKWvtNTR7DJdK8rXprj1"><img src="https://img.shields.io/badge/Monero-FF6600?style=flat-square&logo=monero&logoColor=white"></a>
+*** Bitcoin
 
-#+html: <a href="bitcoin:bc1qr900qsc40c822f0pshu4w7ekny7hecm7xkmung"><img src="https://img.shields.io/badge/Bitcoin-F79413?style=flat-square&logo=bitcoin&logoColor=white"></a>
+[[./bitcoin.png]]
+#+CAPTION: Bitcoin wallet address QR code
+#+NAME: Bitcoin address
+
+=bc1qezd94fmupdl4k8mhlhajvjghscjh08ux4an75h=
+
+*** Monero
+
+[[test][./monero.png]]
+#+CAPTION: Monero wallet address QR code
+#+NAME: Monero address
+
+=82yNtf6BpmH8ZEKLHREpwCdoc2eJPNpUhhcFe3pJ1vTbNgrffZh35UdVFHvZycUFfTAfy8iyeB1cKWvtNTR7DJdK8rXprj1=
 
 ** Stats
 
