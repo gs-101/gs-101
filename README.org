@@ -43,26 +43,21 @@ And if I can't find it, I can write a package for either of them.
 
 ** Cryptography
 
-#+html:<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D1D337F6CB3202DCB9BA337BF9D8EABCF57EED58"><img src="https://img.shields.io/badge/_-GPG_Key_on_OpenPGP-822422?style=flat-square&logo=GNU&logoColor=black&labelColor=white"></a>
+#+html:<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D1D337F6CB3202DCB9BA337BF9D8EABCF57EED58"><img src="https://img.shields.io/badge/_-GPG_Key_on_OpenPGP-822422?style=flat-square&logo=GNU&logoColor=black&labelColor=white" alt="GPG Key on OpenPGP"></a>
 
-#+html:<a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xd1d337f6cb3202dcb9ba337bf9d8eabcf57eed58"><img src="https://img.shields.io/badge/_-GPG_Key_on_Ubuntu-822422?style=flat-square&logo=GNU&logoColor=black&labelColor=white"></a>
+#+html:<a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xd1d337f6cb3202dcb9ba337bf9d8eabcf57eed58"><img src="https://img.shields.io/badge/_-GPG_Key_on_Ubuntu-822422?style=flat-square&logo=GNU&logoColor=black&labelColor=white" alt="GPG Key on Ubuntu"></a>
 
 ** Financial
 
 *** Bitcoin
 
-#+CAPTION: Bitcoin wallet address QR code
-#+NAME: Bitcoin address
-#+ATTR_HTML: :width 50%
-[[./bitcoin.png]]
+#+html: <img src="bitcoin.png" alt="Bitcoin wallet address QR code" height="240px" width="240px">
 
 =bc1qezd94fmupdl4k8mhlhajvjghscjh08ux4an75h=
 
 *** Monero
 
-#+CAPTION: Monero wallet address QR code
-#+NAME: Monero address
-[[test][./monero.png]]
+#+html: <img src="monero.png" alt="Monero wallet address QR code">
 
 =82yNtf6BpmH8ZEKLHREpwCdoc2eJPNpUhhcFe3pJ1vTbNgrffZh35UdVFHvZycUFfTAfy8iyeB1cKWvtNTR7DJdK8rXprj1=
 
