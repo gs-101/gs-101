@@ -35,9 +35,7 @@ But that's not even the best part! I can declaratively configure both my system 
 
 ** [[https://nixos.org/][NixOS]]
 
-Guix's older sibling. I never used NixOS itself, and I don't plan to since I have Guix, but I use [[https://nix-community.github.io/home-manager/][home-manager]] with my Guix setup and its lovely. Whatever I can't find on Guix, I can find it in Nix and use it as a regular part of my system.
-
-And if I can't find it, I can write a package for either of them.
+Guix's older sibling. I use NixOS now, because Guix just wasn't cutting it out for me. It's slow and NixOS has more stuff integrated into it.
 
 * Links
 
