@@ -39,12 +39,6 @@ Guix's older sibling. I use NixOS now, because Guix just wasn't cutting it out f
 
 * Links
 
-** Cryptography
-
-#+html:<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D1D337F6CB3202DCB9BA337BF9D8EABCF57EED58"><img src="https://img.shields.io/badge/_-GPG_Key_on_OpenPGP-822422?style=flat-square&logo=GNU&logoColor=black&labelColor=white" alt="GPG Key on OpenPGP"></a>
-
-#+html:<a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xd1d337f6cb3202dcb9ba337bf9d8eabcf57eed58"><img src="https://img.shields.io/badge/_-GPG_Key_on_Ubuntu-822422?style=flat-square&logo=GNU&logoColor=black&labelColor=white" alt="GPG Key on Ubuntu"></a>
-
 ** Financial
 
 *** Bitcoin
